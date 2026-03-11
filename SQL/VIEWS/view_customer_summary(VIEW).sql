@@ -10,6 +10,6 @@ GROUP BY `Customer ID`, `Customer Name`
 ORDER BY Total_Sales DESC;
     
     
-SELECT * FROM view_3;
+
     
 		
