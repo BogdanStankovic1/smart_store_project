@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Podaci
+data/raw/
+data/processed/
+
+# Exports
+exports/
+
+# Lozinka
+utils/db_connector.py

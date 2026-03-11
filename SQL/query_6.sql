@@ -1,11 +1,9 @@
-USE smart_store;
-
 SELECT 
     p.product_sub_category,
-    SUM(f.sales) AS Total_Sales,
-    RANK() OVER (ORDER BY SUM(f.sales) DESC) AS Sales_Rank
+    COUNT(f.is_returned) AS Number_of_returns
 FROM fact_orders f
 JOIN dim_product p ON p.product_key = f.product_id
+WHERE f.is_returned = 1
 GROUP BY p.product_sub_category
-ORDER BY Sales_Rank
-LIMIT 5;
+ORDER BY Number_of_returns DESC
+LIMIT 1;

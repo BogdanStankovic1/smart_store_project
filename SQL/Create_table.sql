@@ -1,6 +1,6 @@
 USE smart_store;
 CREATE TABLE dim_calendar (
-    date_id      INT          PRIMARY KEY,
+    date_id INT PRIMARY KEY,
     full_date    DATE         NOT NULL,
     year         INT          NOT NULL,
     quarter      INT          NOT NULL,
