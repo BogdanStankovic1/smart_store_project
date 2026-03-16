@@ -33,9 +33,7 @@ CREATE TABLE dim_geography (
 );
 CREATE TABLE dim_manager (
     manager_id   INT          PRIMARY KEY AUTO_INCREMENT,
-    manager_name VARCHAR(100) NOT NULL,
-    geography_id INT,
-    FOREIGN KEY (geography_id) REFERENCES dim_geography(geography_id)
+    manager_name VARCHAR(100) NOT NULL
 );
 CREATE TABLE dim_segment (
     segment_id   INT         PRIMARY KEY AUTO_INCREMENT,
