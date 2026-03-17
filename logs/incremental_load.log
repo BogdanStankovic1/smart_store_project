@@ -1,0 +1,100 @@
+2026-03-17 11:26:16,521 — === Incremental Load Started ===
+2026-03-17 11:28:39,691 — === Incremental Load Started ===
+2026-03-17 11:28:39,713 — Fajl: new_orders_1.csv
+2026-03-17 11:32:39,230 — === Incremental Load Started ===
+2026-03-17 11:32:39,248 — Fajl: new_orders_1.csv
+2026-03-17 11:33:45,955 — === Incremental Load Started ===
+2026-03-17 11:33:45,974 — Fajl: new_orders_1.csv
+2026-03-17 11:37:28,201 — === Incremental Load Started ===
+2026-03-17 11:37:28,221 — Fajl: new_orders_1.csv
+2026-03-17 11:37:28,294 — Staging ažuriran — 300 redova
+2026-03-17 11:38:53,528 — === Incremental Load Started ===
+2026-03-17 11:38:53,550 — Fajl: new_orders_1.csv
+2026-03-17 11:38:53,651 — Staging ažuriran — 300 redova
+2026-03-17 11:38:53,795 — Dimenzije ažurirane!
+2026-03-17 11:40:12,853 — === Incremental Load Started ===
+2026-03-17 11:40:12,869 — Fajl: new_orders_1.csv
+2026-03-17 11:40:12,940 — Staging ažuriran — 300 redova
+2026-03-17 11:40:13,073 — Dimenzije ažurirane!
+2026-03-17 11:40:15,854 — Fact tabela ažurirana!
+2026-03-17 11:41:22,926 — === Incremental Load Started ===
+2026-03-17 11:41:23,016 — Fajl: new_orders_1.csv
+2026-03-17 11:41:23,113 — Staging ažuriran — 300 redova
+2026-03-17 11:41:23,251 — Dimenzije ažurirane!
+2026-03-17 11:41:25,688 — Fact tabela ažurirana!
+2026-03-17 11:42:16,393 — === Incremental Load Started ===
+2026-03-17 11:42:16,421 — Fajl: new_orders_2.csv
+2026-03-17 11:42:16,533 — Staging ažuriran — 300 redova
+2026-03-17 11:42:16,673 — Dimenzije ažurirane!
+2026-03-17 11:42:19,317 — Fact tabela ažurirana!
+2026-03-17 11:42:19,360 — Staging o\u010diš\u0107en!
+2026-03-17 11:42:19,360 — === Incremental Load Completed ===
+2026-03-17 11:44:58,906 — === Incremental Load Started ===
+2026-03-17 11:44:58,929 — Fajl: new_orders_3.csv
+2026-03-17 11:44:58,993 — Staging ažuriran — 300 redova
+2026-03-17 11:44:59,033 — Dimenzije ažurirane!
+2026-03-17 11:44:59,346 — Fact tabela ažurirana!
+2026-03-17 11:44:59,358 — Staging o\u010diš\u0107en!
+2026-03-17 11:44:59,359 — === Incremental Load Completed ===
+2026-03-17 11:46:59,822 — === Incremental Load Started ===
+2026-03-17 11:46:59,846 — Nema novih fajlova za u\u010ditavanje!
+2026-03-17 13:08:45,992 — === Incremental Load Started ===
+2026-03-17 13:08:46,017 — Fajl: new_orders_1.csv
+2026-03-17 13:08:46,084 — Staging ažuriran — 300 redova
+2026-03-17 13:08:46,128 — Dimenzije ažurirane!
+2026-03-17 13:08:46,407 — Fact tabela ažurirana!
+2026-03-17 13:08:46,420 — Staging o\u010diš\u0107en!
+2026-03-17 13:08:46,421 — === Incremental Load Completed ===
+2026-03-17 13:15:16,072 — === Incremental Load Started ===
+2026-03-17 13:15:16,096 — Fajl: new_orders_2.csv
+2026-03-17 13:15:16,165 — Staging ažuriran — 300 redova
+2026-03-17 13:15:16,193 — Dimenzije ažurirane!
+2026-03-17 13:15:16,513 — Fact tabela ažurirana!
+2026-03-17 13:15:16,523 — Staging o\u010diš\u0107en!
+2026-03-17 13:15:16,523 — === Incremental Load Completed ===
+2026-03-17 13:15:48,783 — === Incremental Load Started ===
+2026-03-17 13:15:48,805 — Fajl: new_orders_1.csv
+2026-03-17 13:15:48,877 — Staging ažuriran — 300 redova
+2026-03-17 13:15:48,908 — Dimenzije ažurirane!
+2026-03-17 13:15:49,197 — Fact tabela ažurirana!
+2026-03-17 13:15:49,208 — Staging o\u010diš\u0107en!
+2026-03-17 13:15:49,208 — === Incremental Load Completed ===
+2026-03-17 13:15:53,829 — === Incremental Load Started ===
+2026-03-17 13:15:53,855 — Fajl: new_orders_2.csv
+2026-03-17 13:15:53,920 — Staging ažuriran — 300 redova
+2026-03-17 13:15:53,948 — Dimenzije ažurirane!
+2026-03-17 13:15:54,225 — Fact tabela ažurirana!
+2026-03-17 13:15:54,238 — Staging o\u010diš\u0107en!
+2026-03-17 13:15:54,240 — === Incremental Load Completed ===
+2026-03-17 13:15:56,775 — === Incremental Load Started ===
+2026-03-17 13:15:56,798 — Fajl: new_orders_3.csv
+2026-03-17 13:15:56,924 — Staging ažuriran — 300 redova
+2026-03-17 13:15:56,965 — Dimenzije ažurirane!
+2026-03-17 13:15:57,254 — Fact tabela ažurirana!
+2026-03-17 13:15:57,268 — Staging o\u010diš\u0107en!
+2026-03-17 13:15:57,268 — === Incremental Load Completed ===
+2026-03-17 13:16:06,638 — === Incremental Load Started ===
+2026-03-17 13:16:06,667 — Nema novih fajlova za u\u010ditavanje!
+2026-03-17 13:37:44,815 — === Incremental Load Started ===
+2026-03-17 13:37:44,841 — Fajl: new_orders_1.csv
+2026-03-17 13:37:44,922 — Staging ažuriran — 300 redova
+2026-03-17 13:37:44,953 — Dimenzije ažurirane!
+2026-03-17 13:37:45,034 — Fact tabela ažurirana!
+2026-03-17 13:37:45,045 — Staging o\u010diš\u0107en!
+2026-03-17 13:37:45,046 — === Incremental Load Completed ===
+2026-03-17 13:37:54,378 — === Incremental Load Started ===
+2026-03-17 13:37:54,400 — Fajl: new_orders_2.csv
+2026-03-17 13:37:54,540 — Staging ažuriran — 300 redova
+2026-03-17 13:37:54,567 — Dimenzije ažurirane!
+2026-03-17 13:37:54,649 — Fact tabela ažurirana!
+2026-03-17 13:37:54,660 — Staging o\u010diš\u0107en!
+2026-03-17 13:37:54,660 — === Incremental Load Completed ===
+2026-03-17 13:38:00,953 — === Incremental Load Started ===
+2026-03-17 13:38:00,979 — Fajl: new_orders_3.csv
+2026-03-17 13:38:01,039 — Staging ažuriran — 300 redova
+2026-03-17 13:38:01,066 — Dimenzije ažurirane!
+2026-03-17 13:38:01,147 — Fact tabela ažurirana!
+2026-03-17 13:38:01,160 — Staging o\u010diš\u0107en!
+2026-03-17 13:38:01,160 — === Incremental Load Completed ===
+2026-03-17 13:38:05,726 — === Incremental Load Started ===
+2026-03-17 13:38:05,747 — Nema novih fajlova za u\u010ditavanje!
