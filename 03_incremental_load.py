@@ -12,7 +12,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s — %(message)s'
 )
-
+#Uzmi sve postojeće Row_ID iz baze
 def get_existing_row_ids(engine):
     """Uzmi sve postojeće Row_ID iz baze"""
     with engine.connect() as conn:
